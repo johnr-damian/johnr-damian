@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello World! 👋
+===============
+My name is **John Rhey Damian**.
 
 <!--
 **johnr-damian/johnr-damian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
